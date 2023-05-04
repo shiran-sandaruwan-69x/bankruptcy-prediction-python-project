@@ -1,0 +1,17 @@
+Flask
+gunicorn
+Jinja2
+matplotlib
+numpy
+pandas
+scikit-learn
+scikit-plot
+sklearn
+joblib
+nltk
+seaborn
+Werkzeug
+colorama
+greenlet
+itsdangerous
+MarkupSafe
